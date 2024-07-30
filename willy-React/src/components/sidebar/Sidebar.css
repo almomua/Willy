@@ -1,0 +1,10 @@
+.sidebar-expanded,
+.sidebar-collapsed {
+  background-color: #666666; /* Background color */
+}
+
+.sidebar-expanded .MuiListItemIcon-root,
+.sidebar-collapsed .MuiListItemIcon-root {
+  color: red; /* Icon color */
+}
+

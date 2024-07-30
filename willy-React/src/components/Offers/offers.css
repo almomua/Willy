@@ -1,0 +1,10 @@
+/* src/components/offer/Offer.css */
+.add-button {
+    background-color: #666666;
+    color: white;
+  }
+  
+  .add-button:hover {
+    background-color: #555555;
+  }
+  

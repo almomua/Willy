@@ -1,0 +1,11 @@
+/* src/components/category/Category.css */
+.add-button {
+    background-color: #666666;
+    color: white;
+    margin-top: 16px; /* Adjust the space between input and button */
+  }
+  
+  .add-button:hover {
+    background-color: #555555;
+  }
+  
